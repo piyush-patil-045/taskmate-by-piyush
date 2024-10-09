@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Logo from "../assets/letter-k.png";
+import Logo from "../assets/letter-p.png";
 
 const Header = () => {
   const [theme, setTheme] = useState(
